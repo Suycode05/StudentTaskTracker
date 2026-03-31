@@ -62,7 +62,7 @@ StudentTaskTracker/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/madynamo/StudentTaskTracker.git
+git clone https://github.com/Suycode05/StudentTaskTracker.git
 cd StudentTaskTracker
 ```
 
@@ -127,5 +127,5 @@ All tasks are stored in `data/tasks.csv`. You can inspect or back it up at any t
 
 ## Author
 
-**ADARSH SINGH CHAUHAN**  
+**Suyash Tripathi**  
 ```
